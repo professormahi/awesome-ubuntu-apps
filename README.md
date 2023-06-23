@@ -5,6 +5,7 @@
 - [Editors and IDEs](#editors-and-ides)
 - [Gnome Extensions](#gnome-extensions)
 - [PDF and Document Readers](#pdf-and-document-readers)
+- [Screenshots and Screencasts](#screenshots-and-screencasts)
 - [Ulauncher Extensions](#ulauncher-extensions)
 
 # Editors and IDEs
@@ -20,6 +21,9 @@
 
 # PDF and Document Readers
 - [Okular](https://okular.kde.org/) - The Universal Document Viewer; Multi-platform, fast and packed with features, Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
+
+# Screenshots and Screencasts
+- [Flameshot](https://flameshot.org/) - Powerful, yet simple to use open-source screenshot software.
 
 # Ulauncher Extensions
 - [Fuzzy Finder](https://github.com/hillaryychan/ulauncher-fzf) - Find files and directories in Ulauncher using fzf (and fd)
