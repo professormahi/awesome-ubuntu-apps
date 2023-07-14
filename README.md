@@ -7,6 +7,7 @@
 - [PDF and Document Readers](#pdf-and-document-readers)
 - [Screenshots and Screencasts](#screenshots-and-screencasts)
 - [Ulauncher Extensions](#ulauncher-extensions)
+- [Video and Image Editing](#video-and-image-editing)
 
 # Editors and IDEs
 - [MarkText](https://github.com/marktext/marktext) - A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -26,8 +27,14 @@
 
 # Screenshots and Screencasts
 - [Flameshot](https://flameshot.org/) - Powerful, yet simple to use open-source screenshot software.
+- [Kazam](https://github.com/henrywoo/kazam) - Linux Desktop Screen Recorder and Broadcaster
 
 # Ulauncher Extensions
 - [Fuzzy Finder](https://github.com/hillaryychan/ulauncher-fzf) - Find files and directories in Ulauncher using fzf (and fd)
 - [Remmina](https://github.com/noam09/ulauncher-remmina) - A Ulauncher extension for quick access to Remmina profiles
 - [Virtualbox](https://github.com/luispabon/ulauncher-virtualbox) - Simple Ulauncher extension to launch virtualbox vms
+
+# Video and Image Editing
+- [GIMP](https://www.gimp.org/) - A cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
+- [Inkscape](https://inkscape.org/) - Professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.
+- [Kdenlive](https://kdenlive.org/en/) - Free and open source video editor from KDE
