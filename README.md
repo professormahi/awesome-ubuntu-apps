@@ -20,6 +20,7 @@
 
 
 # PDF and Document Readers
+- [Foliate](https://johnfactotum.github.io/foliate/) - A simple and modern eBook viewer for Linux desktops
 - [Okular](https://okular.kde.org/) - The Universal Document Viewer; Multi-platform, fast and packed with features, Okular allows you to read PDF documents, comics and EPub books, browse images, visualize Markdown documents, and much more.
 
 # Screenshots and Screencasts
